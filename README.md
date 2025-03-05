@@ -24,15 +24,16 @@ Abstract classes
 Private classes
 etc
 
-### Concrete classes
+# Concrete classes
+These are the normally defined classes
 
-### Interfaces
+# Interfaces
 This is like a template of a class
 Defines what a class has or does
 Classes can implement more than one interface
 variables Doesnt need a bod
 
-### Abstract classes
+# Abstract classes
 Adds security to the program
 Prevent abstact classes from being used, forces the user to define a class in more detail
 
